@@ -59,8 +59,7 @@
     "commander": "2.17.x",
     "he": "1.2.x",
     "param-case": "2.1.x",
-    "relateurl": "0.2.x",
-    "uglify-js": "3.4.x"
+    "relateurl": "0.2.x"
   },
   "devDependencies": {
     "grunt": "1.0.x",
